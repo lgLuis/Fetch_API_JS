@@ -3,3 +3,18 @@
     margin: 0;
     padding: 0;
 }
+
+.header-estilo{
+    border: 2px solid green;
+    
+}
+
+
+.poke-img{
+    border: 2px solid red;
+    
+}
+
+.aqui{
+    border: 2px solid blue;
+}
