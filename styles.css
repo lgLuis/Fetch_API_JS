@@ -5,16 +5,33 @@
 }
 
 .header-estilo{
-    border: 2px solid green;
-    
+    border: 2px solid white;
+    text-align: center;
+    background-color: red;
+
 }
 
 
 .poke-img{
-    border: 2px solid red;
+    border: 2px solid white;
+    border-radius: 10px;
+    margin: 1em;
+    padding: 2em;
     
 }
 
 .aqui{
-    border: 2px solid blue;
+    border: 2px solid red;
+    text-align: center;
+    width: 35%;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 10px;
+}
+
+footer{
+    text-align: center;
+    color: white;
+    margin-top: 2em;
+    background-color: red;
 }
